@@ -18,4 +18,5 @@ endif
 
 # Include IMSEnabler
 PRODUCT_PACKAGES += \
+    init.qti.ims.sh \
     IMSEnabler
