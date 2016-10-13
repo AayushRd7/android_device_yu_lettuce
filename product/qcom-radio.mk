@@ -20,3 +20,10 @@ endif
 PRODUCT_PACKAGES += \
     init.qti.ims.sh \
     IMSEnabler
+
+# VT
+PRODUCT_PACKAGES += \
+  libvt_jni \
+  libimscamera_jni \
+  qti_permissions.xml
+ 
