@@ -18,3 +18,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     mm.enable.smoothstreaming=true \
     mmp.enable.3g2=true\
     persist.media.hls.enhancements=false
+
+PRODUCT_PACKAGES += \
+    libqcomvisualizer \
+    libqcompostprocbundle \
