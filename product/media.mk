@@ -4,7 +4,7 @@ PRODUCT_COPY_FILES += \
 
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
-    media.msm8929hw=0 \
+    media.msm8916hw=0 \
     media.msm8939hw=0 \
     media.stagefright.enable-aac=true \
     media.stagefright.enable-fma2dp=true \
